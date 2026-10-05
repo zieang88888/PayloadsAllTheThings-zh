@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300"><rect x="0" y="0" width="960" height="300" fill="#FAF6EF" stroke="#B23A2E" stroke-width="2" rx="18"/>
+<text x="40" y="52" font-family="Noto Sans CJK SC, sans-serif" font-size="25" fill="#B23A2E" font-weight="bold" text-anchor="start">数据一览 · 数字来自源仓 GitHub API 实测</text>
+<rect x="40" y="78" width="210" height="195" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2" rx="14"/>
+<text x="145" y="150" font-family="Noto Sans CJK SC, sans-serif" font-size="46" fill="#B23A2E" font-weight="bold" text-anchor="middle">81,472</text>
+<text x="145" y="196" font-family="Noto Sans CJK SC, sans-serif" font-size="21" fill="#1F1B16" font-weight="bold" text-anchor="middle">源仓星标 ★</text>
+<text x="145" y="226" font-family="Noto Sans CJK SC, sans-serif" font-size="14" fill="#1F1B16" font-weight="normal" text-anchor="middle">GitHub Stars 实测</text>
+<rect x="270" y="78" width="210" height="195" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2" rx="14"/>
+<text x="375" y="150" font-family="Noto Sans CJK SC, sans-serif" font-size="46" fill="#B23A2E" font-weight="bold" text-anchor="middle">64</text>
+<text x="375" y="196" font-family="Noto Sans CJK SC, sans-serif" font-size="21" fill="#1F1B16" font-weight="bold" text-anchor="middle">载荷分类目录</text>
+<text x="375" y="226" font-family="Noto Sans CJK SC, sans-serif" font-size="14" fill="#1F1B16" font-weight="normal" text-anchor="middle">根目录 type=dir</text>
+<rect x="500" y="78" width="210" height="195" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2" rx="14"/>
+<text x="605" y="150" font-family="Noto Sans CJK SC, sans-serif" font-size="46" fill="#B23A2E" font-weight="bold" text-anchor="middle">24</text>
+<text x="605" y="196" font-family="Noto Sans CJK SC, sans-serif" font-size="21" fill="#1F1B16" font-weight="bold" text-anchor="middle">中文精选速查</text>
+<text x="605" y="226" font-family="Noto Sans CJK SC, sans-serif" font-size="14" fill="#1F1B16" font-weight="normal" text-anchor="middle">README 分类表</text>
+<rect x="730" y="78" width="210" height="195" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2" rx="14"/>
+<text x="835" y="150" font-family="Noto Sans CJK SC, sans-serif" font-size="46" fill="#B23A2E" font-weight="bold" text-anchor="middle">3</text>
+<text x="835" y="196" font-family="Noto Sans CJK SC, sans-serif" font-size="21" fill="#1F1B16" font-weight="bold" text-anchor="middle">实战使用示例</text>
+<text x="835" y="226" font-family="Noto Sans CJK SC, sans-serif" font-size="14" fill="#1F1B16" font-weight="normal" text-anchor="middle">SQLi · XSS · LFI</text></svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260"><rect x="0" y="0" width="960" height="260" fill="#FAF6EF" stroke="#B23A2E" stroke-width="4" rx="18"/>
+<text x="40" y="40" font-family="Noto Sans CJK SC, sans-serif" font-size="15" fill="#B23A2E" font-weight="bold" text-anchor="start">> payloads_all_the_things --zh</text>
+<text x="480" y="102" font-family="Noto Sans CJK SC, sans-serif" font-size="50" fill="#B23A2E" font-weight="bold" text-anchor="middle">攻击载荷百科 · 中文版</text>
+<text x="480" y="146" font-family="Noto Sans CJK SC, sans-serif" font-size="21" fill="#1F1B16" font-weight="normal" text-anchor="middle">渗透测试 Payload 速查手册 · 注入 / 绕过 / 提权 / 内网</text>
+<rect x="40" y="174" width="200" height="36" fill="#B23A2E" stroke="#B23A2E" stroke-width="0" rx="18"/>
+<text x="140" y="199" font-family="Noto Sans CJK SC, sans-serif" font-size="18" fill="#FFFFFF" font-weight="bold" text-anchor="middle">★ 81,000+</text>
+<rect x="260" y="174" width="200" height="36" fill="#B23A2E" stroke="#B23A2E" stroke-width="0" rx="18"/>
+<text x="360" y="199" font-family="Noto Sans CJK SC, sans-serif" font-size="18" fill="#FFFFFF" font-weight="bold" text-anchor="middle">64 载荷分类</text>
+<rect x="480" y="174" width="200" height="36" fill="#B23A2E" stroke="#B23A2E" stroke-width="0" rx="18"/>
+<text x="580" y="199" font-family="Noto Sans CJK SC, sans-serif" font-size="18" fill="#FFFFFF" font-weight="bold" text-anchor="middle">24 中文精选</text>
+<rect x="700" y="174" width="200" height="36" fill="#B23A2E" stroke="#B23A2E" stroke-width="0" rx="18"/>
+<text x="800" y="199" font-family="Noto Sans CJK SC, sans-serif" font-size="18" fill="#FFFFFF" font-weight="bold" text-anchor="middle">64 全量索引</text>
+<text x="480" y="240" font-family="Noto Sans CJK SC, sans-serif" font-size="15" fill="#1F1B16" font-weight="normal" text-anchor="middle">基于 swisskyrepo/PayloadsAllTheThings（MIT）汉化整理 · 仅供授权安全测试</text></svg>

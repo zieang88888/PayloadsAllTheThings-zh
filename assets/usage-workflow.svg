@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220"><rect x="0" y="0" width="960" height="220" fill="#FAF6EF" stroke="#B23A2E" stroke-width="2" rx="18"/>
+<text x="480" y="48" font-family="Noto Sans CJK SC, sans-serif" font-size="25" fill="#B23A2E" font-weight="bold" text-anchor="middle">三步速查攻击载荷</text>
+<rect x="40" y="76" width="260" height="112" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2" rx="14"/>
+<circle cx="82" cy="108" r="20" fill="#B23A2E"/>
+<text x="82" y="116" font-family="Noto Sans CJK SC, sans-serif" font-size="24" fill="#FFFFFF" font-weight="bold" text-anchor="middle">1</text>
+<text x="118" y="114" font-family="Noto Sans CJK SC, sans-serif" font-size="21" fill="#1F1B16" font-weight="bold" text-anchor="start">定位漏洞类型</text>
+<text x="118" y="142" font-family="Noto Sans CJK SC, sans-serif" font-size="15" fill="#1F1B16" font-weight="normal" text-anchor="start">按 64 个分类目录</text>
+<text x="118" y="166" font-family="Noto Sans CJK SC, sans-serif" font-size="15" fill="#1F1B16" font-weight="normal" text-anchor="start">匹配你遇到的漏洞</text>
+<text x="320" y="136" font-family="Noto Sans CJK SC, sans-serif" font-size="34" fill="#B23A2E" font-weight="bold" text-anchor="middle">→</text>
+<rect x="340" y="76" width="260" height="112" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2" rx="14"/>
+<circle cx="382" cy="108" r="20" fill="#B23A2E"/>
+<text x="382" y="116" font-family="Noto Sans CJK SC, sans-serif" font-size="24" fill="#FFFFFF" font-weight="bold" text-anchor="middle">2</text>
+<text x="418" y="114" font-family="Noto Sans CJK SC, sans-serif" font-size="21" fill="#1F1B16" font-weight="bold" text-anchor="start">挑选 Payload</text>
+<text x="418" y="142" font-family="Noto Sans CJK SC, sans-serif" font-size="15" fill="#1F1B16" font-weight="normal" text-anchor="start">复制载荷与绕过串</text>
+<text x="418" y="166" font-family="Noto Sans CJK SC, sans-serif" font-size="15" fill="#1F1B16" font-weight="normal" text-anchor="start">含过滤 / 编码绕过</text>
+<text x="620" y="136" font-family="Noto Sans CJK SC, sans-serif" font-size="34" fill="#B23A2E" font-weight="bold" text-anchor="middle">→</text>
+<rect x="640" y="76" width="260" height="112" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2" rx="14"/>
+<circle cx="682" cy="108" r="20" fill="#B23A2E"/>
+<text x="682" y="116" font-family="Noto Sans CJK SC, sans-serif" font-size="24" fill="#FFFFFF" font-weight="bold" text-anchor="middle">3</text>
+<text x="718" y="114" font-family="Noto Sans CJK SC, sans-serif" font-size="21" fill="#1F1B16" font-weight="bold" text-anchor="start">调整并验证</text>
+<text x="718" y="142" font-family="Noto Sans CJK SC, sans-serif" font-size="15" fill="#1F1B16" font-weight="normal" text-anchor="start">改目标参数 · 配字典</text>
+<text x="718" y="166" font-family="Noto Sans CJK SC, sans-serif" font-size="15" fill="#1F1B16" font-weight="normal" text-anchor="start">Burp 批量验证</text></svg>
